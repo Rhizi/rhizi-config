@@ -1,2 +1,3 @@
-# rhizi-config
+# Rhizi config
+
 Rhizi config file parser

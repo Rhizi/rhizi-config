@@ -1,0 +1,4 @@
+name: "Rhizi Default"
+header:
+    image_path: logo.png
+    html_text: "<h1>Welcome to rhizi</h1>"
